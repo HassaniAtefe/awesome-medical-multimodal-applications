@@ -14,6 +14,10 @@ Resources on the use of multimodal learning in medical imaging.
 * [**ACL 2025**] RADAR: Enhancing Radiology Report Generation with Supplementary Knowledge Injection [[PDF]](https://arxiv.org/abs/2505.14318) [[Code]](https://github.com/wjhou/Radar)
 * [**arXiv 2025**] A Multimodal Multi-Agent Framework for Radiology Report Generation [[PDF]](https://arxiv.org/abs/2505.09787) [[Code]]()
 * [**arXiv 2025**] RadIR: A Scalable Framework for  Multi-Grained Medical Image Retrieval via  Radiology Report Mining [[PDF]](https://www.arxiv.org/abs/2503.04653) [[Code]]()
+* [**arXiv 2025**] MRGAgents: A Multi-Agent Framework for Improved Medical Report Generation with Med-LVLMs [[PDF]](https://arxiv.org/abs/2505.18530) [[Code]]()
+* [**arXiv 2025**] Multimodal Large Language Models for Medical Report Generation via Customized Prompt Tuning [[PDF]](https://arxiv.org/abs/2506.15477) [[Code]]() 
+
   
 ### 2024
 * [**EMNLP 2024**] RULE: Reliable Multimodal RAG for Factuality  in Medical Vision Language Models [[PDF]](https://arxiv.org/abs/2407.05131) [[Code]](https://github.com/richard-peng-xia/RULE)
+
